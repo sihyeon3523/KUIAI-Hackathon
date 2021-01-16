@@ -1,6 +1,6 @@
 # KUIAI-Hackathon
 ## Goal 
-High-perfomance Anomaly Detection in Novelty
+### High-perfomance Anomaly Detection in Novelty
 - 주어진 데이터 셋에서 정상만 가지고 학습한 뒤 정상/비정상을 판단
 - 데이터의 특성(다중 클래스, 초고차원 데이터)에 따라 
 - 신규 알고리즘을 개발(통계기반, 머신러닝, 딥러닝 관계없음) 하거나, 기존 Anomaly Detection에 활용되는 알고리즘 조합 및 프로제스 변경 등의 다양한 접근 
